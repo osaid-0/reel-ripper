@@ -1,0 +1,22 @@
+# runtime output -- ripped reels, transcripts, bundles, batch registry
+out/
+
+# your own link list (keep an urls.example.txt in the repo instead, if you want one)
+urls.txt
+cookies*.txt
+.env
+.env.*
+models/
+.cache/
+*.part
+*.ytdl
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS cruft
+.DS_Store
+Thumbs.db
