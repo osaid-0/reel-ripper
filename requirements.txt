@@ -1,0 +1,10 @@
+# Core dependencies -- CPU transcription works with just these.
+#
+#   pip install -r requirements.txt
+#
+# You also need ffmpeg on PATH (not a pip package). See README.md.
+
+yt-dlp>=2026.8.19
+faster-whisper>=1.2.1,<2
+numpy>=1.24
+tqdm>=4.66
