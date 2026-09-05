@@ -1,0 +1,3 @@
+# One Instagram reel, post, or IGTV URL per line.
+# Copy this file to urls.txt; urls.txt is intentionally ignored by Git.
+https://www.instagram.com/reel/ABC123example/
